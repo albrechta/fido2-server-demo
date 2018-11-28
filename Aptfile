@@ -1,2 +1,4 @@
 gcc
+g++
 build-essential
+python
